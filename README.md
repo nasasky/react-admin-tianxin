@@ -9,13 +9,13 @@ react-admin system solution
 
 ### 问题和方案汇总：[issue](https://github.com/yezihaohao/react-admin/issues/12)
 
-### 更新日志迁移至[CHANGELOG.md](https://github.com/yezihaohao/react-admin/blob/master/CHANGELOG.md)😁(重要！对于了解项目部分功能和代码很有用！)
+### 😁(重要！对于了解项目部分功能和代码很有用！)
 
 ### 前言
 > 网上react后台管理开源免费的完整版项目比较少，所以利用空余时间集成了一个版本出来，已放到GitHub
   启动和打包的时间都稍长，请耐心等待两分钟
 
-- [GitHub地址](https://github.com/yezihaohao/react-admin)
+
 - [预览地址](https://admiring-dijkstra-34cb29.netlify.com)(已增加响应式，可手机预览😄)
 
 ### 依赖模块
@@ -162,15 +162,5 @@ yarn build or npm run build
 ```
 
 ### 结尾
-该项目会不定时更新，后续时间会添加更多的模块
-
-欢迎和感谢大家PR~~👏👏
-
-若有问题，可加QQ群与我交流
-
-- 1群：264591039（已满）
-- 2群：592688854（已满）
-- 3群：743490497 (已满)
-- 4群：150131600
 
 如果对你有帮助，给个star哟~~❤️❤️❤️❤️
